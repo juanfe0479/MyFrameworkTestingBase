@@ -1,2 +1,2 @@
-# TheInternetWebPageTest
-Web Automation Structure with POM, Functional Testing.
+# Test
+Web Automation with POM Pattern Structure.

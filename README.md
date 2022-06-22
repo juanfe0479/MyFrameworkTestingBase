@@ -1,2 +1,2 @@
-# Test
-Web Automation with POM Pattern Structure.
+# Framework Testing
+My Structure POM Base for Web Automation
